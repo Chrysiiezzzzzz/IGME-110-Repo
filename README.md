@@ -19,3 +19,4 @@ wow... such cool...
 
 > Kepler Solids
 ![small stellated dodecahedron](https://mathworld.wolfram.com/images/eps-svg/U34_700.svg)
+![great stellated dodecahedron](https://mathworld.wolfram.com/images/eps-svg/U52_700.svg)
