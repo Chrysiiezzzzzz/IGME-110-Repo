@@ -15,4 +15,4 @@ wow... such cool...
   <li>c</li>
 </ol>
 
-[quieres?]{https://wiki.tockdom.com/wiki/Mario_Kart_Wii_Deluxe}
+[quieres?](https://wiki.tockdom.com/wiki/Mario_Kart_Wii_Deluxe)
