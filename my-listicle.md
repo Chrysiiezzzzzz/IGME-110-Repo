@@ -1,4 +1,4 @@
-# Listicle, more like- I'm not finishing that joke
+# Listicle? More like- I'm not finishing that joke
 
 # A List of cool games
 ## with steam links!!!
